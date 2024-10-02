@@ -29,7 +29,7 @@ A fully responsive Online Quiz App built using **HTML**, **CSS**, and **JavaScri
 
 ## Screenshots
 
-![Quiz Screenshot](path_to_your_screenshot)
+![Quiz Screenshot](./images/Quiz_Screenshot.png)
 
 ---
 
